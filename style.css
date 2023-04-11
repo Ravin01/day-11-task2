@@ -1,0 +1,46 @@
+.aside {
+    background-color: #D0D3D4;
+    overflow-y: scroll;
+}
+
+.tut:hover {
+    background-color: #B3B6B7;
+}
+
+.sub {
+    width: 85%;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.head {
+    background-color: #B3B6B7;
+}
+
+.sub {
+    background-color: #B3B6B7;
+}
+
+.sub-head:hover {
+    background-color: green;
+}
+
+.main-con1 {
+    background-color: #B3B6B7;
+    padding: 20px 10px;
+}
+
+.example {
+    background-color: #D0D3D4;
+    padding: 20px 10px;
+}
+
+pre {
+    background-color: white;
+    padding: 15px 0px 0px 0px;
+    /* text-align: center; */
+}
+
+.main {
+    overflow-y: hidden;
+}
